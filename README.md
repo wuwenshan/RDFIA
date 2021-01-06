@@ -15,6 +15,6 @@ Projet 1 (SIFT) :
 
 Projet 2 (GAN) :
 	
-  Basé sur les GAN, étudier le comportement de nos réseaux sur des jeux de données comme CELEBA ou MNIST.
-  Trois cas : GAN simple / cGAN / DCGAN.
+  	Basé sur les GAN, étudier le comportement de nos réseaux sur des jeux de données comme CELEBA ou MNIST.
+  	Trois cas : GAN simple / cGAN / DCGAN.
 	  
